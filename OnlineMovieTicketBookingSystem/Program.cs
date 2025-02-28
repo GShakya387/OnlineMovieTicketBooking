@@ -1,3 +1,5 @@
+using System.Runtime.CompilerServices;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -8,6 +10,7 @@ builder.Services.AddOpenApi();
 
 var app = builder.Build();
 
+//This is For Tesetin gPurpose
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {

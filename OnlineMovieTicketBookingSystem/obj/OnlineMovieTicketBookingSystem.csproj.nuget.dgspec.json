@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Gaurav\\M2Practice\\Online_Movie_Ticket_Booking-System\\OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem.csproj": {}
+    "C:\\MovieTicketBooking\\OnlineMovieTicketBooking\\OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem.csproj": {}
   },
   "projects": {
-    "C:\\Gaurav\\M2Practice\\Online_Movie_Ticket_Booking-System\\OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem.csproj": {
+    "C:\\MovieTicketBooking\\OnlineMovieTicketBooking\\OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Gaurav\\M2Practice\\Online_Movie_Ticket_Booking-System\\OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem.csproj",
+        "projectUniqueName": "C:\\MovieTicketBooking\\OnlineMovieTicketBooking\\OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem.csproj",
         "projectName": "OnlineMovieTicketBookingSystem",
-        "projectPath": "C:\\Gaurav\\M2Practice\\Online_Movie_Ticket_Booking-System\\OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem.csproj",
-        "packagesPath": "C:\\Users\\GSHAKYA\\.nuget\\packages\\",
-        "outputPath": "C:\\Gaurav\\M2Practice\\Online_Movie_Ticket_Booking-System\\OnlineMovieTicketBookingSystem\\obj\\",
+        "projectPath": "C:\\MovieTicketBooking\\OnlineMovieTicketBooking\\OnlineMovieTicketBookingSystem\\OnlineMovieTicketBookingSystem.csproj",
+        "packagesPath": "C:\\Users\\AKPARASH\\.nuget\\packages\\",
+        "outputPath": "C:\\MovieTicketBooking\\OnlineMovieTicketBooking\\OnlineMovieTicketBookingSystem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\GSHAKYA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\AKPARASH\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
